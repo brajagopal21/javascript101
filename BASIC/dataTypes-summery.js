@@ -22,3 +22,9 @@ const myFunction = function () {
 console.log(typeof obj)
 console.log(typeof myFunction)
 console.log(typeof heros)
+
+
+
+
+
+
